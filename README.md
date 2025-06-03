@@ -9,6 +9,7 @@ a credit-card-sized keyboard with 60 keys and 10 neopixels.
 ## BOM
 * 1x Seeed Studio XIAO RP2040 ($10.32)
 * 1x JLC PCB + PCBA ($98.33)
-* 5x IO Expander ($0.99)
+* 5x AliExpress IO Expander ($0.99)
+* 5x TBD SK6812 (TBD)
 
 **Total: $109.64**
