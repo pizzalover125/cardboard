@@ -7,4 +7,8 @@ a credit-card-sized keyboard with 60 keys and 10 neopixels.
 ![image](https://github.com/user-attachments/assets/f3673a3a-9610-4df8-8c3d-9e7002e324cc)
 
 ## BOM
-TBD
+* 1x Seeed Studio XIAO RP2040 ($10.32)
+* 1x JLC PCB + PCBA ($98.33)
+* 5x IO Expander ($0.99)
+
+**Total: $109.64**
