@@ -9,6 +9,8 @@ a credit-card-sized split keyboard. world's smallest split keyboard.
 ## BOM
 * 2x Seeed Studio XIAO RP2040 ($12.75 from Seeed Studio)
 * 2x TRRS Sockets + 1x TRRS Cable + 100x Diodes + 120x Push Buttons + 100x Resistors ($32.15 from Amazon)
-* 1x PCB ($10.29 from PCBWAY)
+* 5x PCB ($10.29 from PCBWAY)
+* 2x IO Expander (FREE from cardpad)
+* 8x Neopixels (FREE from hackpad)
 **Total: 55.19**
 
